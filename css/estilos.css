@@ -703,7 +703,7 @@ background-position: 0 0,10px 10px;
   display: flex;
   justify-content: center;
   align-items:center;
-  background-image: url(/images/chunnuheader.jpg);
+  background-image: url(../images/chunnuheader.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -990,7 +990,7 @@ background-position: 0 0,10px 10px;
 /*MENDIHUACA*/
 
 .header {
-    background-image: url('/images/mendihuaca-caribbean\ \(1\).jpg');
+    background-image: url('../images/mendihuaca-caribbean\ \(1\).jpg');
     background-size: cover;
     background-position: center;
     height: 280px;
